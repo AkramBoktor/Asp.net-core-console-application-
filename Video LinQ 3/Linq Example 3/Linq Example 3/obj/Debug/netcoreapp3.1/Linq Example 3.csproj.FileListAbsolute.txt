@@ -1,0 +1,13 @@
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 3\Linq Example 3\Linq Example 3\bin\Debug\netcoreapp3.1\Linq Example 3.exe
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 3\Linq Example 3\Linq Example 3\bin\Debug\netcoreapp3.1\Linq Example 3.deps.json
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 3\Linq Example 3\Linq Example 3\bin\Debug\netcoreapp3.1\Linq Example 3.runtimeconfig.json
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 3\Linq Example 3\Linq Example 3\bin\Debug\netcoreapp3.1\Linq Example 3.runtimeconfig.dev.json
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 3\Linq Example 3\Linq Example 3\bin\Debug\netcoreapp3.1\Linq Example 3.dll
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 3\Linq Example 3\Linq Example 3\bin\Debug\netcoreapp3.1\Linq Example 3.pdb
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 3\Linq Example 3\Linq Example 3\obj\Debug\netcoreapp3.1\Linq Example 3.csprojAssemblyReference.cache
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 3\Linq Example 3\Linq Example 3\obj\Debug\netcoreapp3.1\Linq Example 3.AssemblyInfoInputs.cache
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 3\Linq Example 3\Linq Example 3\obj\Debug\netcoreapp3.1\Linq Example 3.AssemblyInfo.cs
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 3\Linq Example 3\Linq Example 3\obj\Debug\netcoreapp3.1\Linq Example 3.csproj.CoreCompileInputs.cache
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 3\Linq Example 3\Linq Example 3\obj\Debug\netcoreapp3.1\Linq Example 3.dll
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 3\Linq Example 3\Linq Example 3\obj\Debug\netcoreapp3.1\Linq Example 3.pdb
+C:\Users\Akram\Desktop\courses\1\linq\Video LinQ 3\Linq Example 3\Linq Example 3\obj\Debug\netcoreapp3.1\Linq Example 3.genruntimeconfig.cache
